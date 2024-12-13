@@ -1,14 +1,16 @@
 Welcome to your new dbt project!
 
-### Using the starter project
+### Using the project
 
 Try running the following commands:
-- dbt build
+- dbt run
 
+### Instructor directions
+- in our flagship course, dbt Fundamentals, we build out a jaffle_shop project including staging models, sources, and a dim table.
+- this project is complete through the lessons of data modeling and sources.
+- testing is the next topic and your goal is to run a lesson starting off with testing.
+- leverage learner knowledge given that they would have already learned about models and sources. 
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](http://slack.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+- Check out free courses at [dbt Learn](https://learn.getdbt.com/) 
