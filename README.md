@@ -13,4 +13,5 @@ Try running the following commands:
 
 ### Resources:
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out free courses at [dbt Learn](https://learn.getdbt.com/) 
+- Check out free courses at [dbt Learn](https://learn.getdbt.com/)
+- Data testing [slide deck] (https://docs.google.com/presentation/d/1u_sIDJtGurJyQ9XlRa2g0nHCKrAlmFlmt-Q2WJyweoY/edit?usp=sharing) with instructor notes in the presenter view
